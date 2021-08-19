@@ -1,11 +1,11 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "DHH8LP474C.com.hsinyitech.UniversalLinks",
-				"paths": [ "*"]
-			}
-		]
-	}
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "DHH8LP474C.com.hsinyitech.UniversalLinks",
+      "paths": ["*"]
+    }
+    ]
+  }
 }
